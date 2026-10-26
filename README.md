@@ -11,7 +11,7 @@ Nebula 3D is where you bring an idea and leave with a one-of-a-kind object. You 
 4. 🖨️ **Get it printed in 3D**
 
 ## Related
-- [`nebula-quote`](https://github.com/Brunoflor/nebula-quote): instant quotes for 3D prints
+- [`stl-platform`](https://github.com/Brunoflor/stl-platform): production cost calculator for any 3D project
 - 📸 Instagram: [@nebula3dlab](https://www.instagram.com/nebula3dlab/)
 
 ## Status
